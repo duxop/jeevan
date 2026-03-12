@@ -3,8 +3,17 @@
   "pages404": true,
   "appType": "app",
   "caseSensitive": false,
-  "basePath": "",
+  "basePath": "/jeevan",
   "redirects": [
+    {
+      "source": "/jeevan/",
+      "destination": "/jeevan",
+      "basePath": false,
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^/jeevan/$"
+    },
     {
       "source": "/:path+/",
       "destination": "/:path+",

@@ -1,4 +1,0 @@
-:HL["/_next/static/chunks/2fe4cd2d027aa724.css","style"]
-:HL["https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap","style"]
-:HL["https://lh3.googleusercontent.com/aida-public/AB6AXuD8HzgWiQK9goJ9fl8imKpyABBURXXigclBYLHV7wKtUSVDNqVuXPF3483j48U2Im-RB9EyG8jYqNBfEcO9HvhM-jiS0dmKudFkKPqk8JZTGMNGkIZx9Fba6QownysfFNcbdOOZ1WNA2FaFvscQCNKSHz3x07CbONa8YZAf2i67LZCbXSNlQzPw8WJpoQSAMmoS_DEQeEM9Sy6hGL2loeY73__DeYcXyt4IxbA_jI1hafWCiFq1iwDYiVxzjcRp7cM-LRuTjSEsI_pM","image",{"referrerPolicy":"no-referrer"}]
-0:{"buildId":"GGGkvh1TwAKWKNJ-zKoPt","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
